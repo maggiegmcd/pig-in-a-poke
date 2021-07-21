@@ -22,7 +22,7 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Welcome to the Hog Blog</p>
+        <p>Welcome to the Hog Blog!</p>
         <p>
           I'm Maggie, head hog honcho of Pig in a Poke Studio. I'm a web developer, designer, and illustrator.
         </p>
